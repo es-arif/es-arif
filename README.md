@@ -8,5 +8,3 @@
 es-arif/es-arif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<script src="https://gist.github.com/es-arif/b8089ab6b12056ccd573d68c09edc9ed.js"></script>
